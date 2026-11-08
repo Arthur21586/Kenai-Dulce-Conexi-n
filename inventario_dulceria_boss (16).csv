@@ -1,0 +1,270 @@
+﻿id,name,category,barcode,cost,price,stock,unit,minStock,division,stockUnlimited
+P-0001,Copia a Color,Copias y Servicios,,0.21,3,0,pieza,3,Copias y Servicios,true
+P-0002,Copia B/N,Copias y Servicios,,0.21,1,0,pieza,3,Copias y Servicios,true
+P-0003,Hojas Banca 5x3 Pesos,Copias y Servicios,,1.03,3,0,pieza,3,Copias y Servicios,true
+P-0004,Boligrafo Negro,Copias y Servicios,,1,3,5,pieza,3,Copias y Servicios,false
+P-0005,Lapiz Neon,Copias y Servicios,,1,3,5,pieza,3,Copias y Servicios,false
+P-0006,Registro de Beca Rita Cetina,Copias y Servicios,,0,75,0,pieza,3,Copias y Servicios,true
+P-0007,Registro de Beca Benito Juarez,Copias y Servicios,,0,75,0,pieza,3,Copias y Servicios,true
+P-0008,Ficha de Internet,Copias y Servicios,,0,10,0,pieza,3,Copias y Servicios,true
+P-0009,Descarga de Musica,Copias y Servicios,,0,1,0,pieza,3,Copias y Servicios,true
+P-0010,Registro de JCF,Copias y Servicios,,0,75,0,pieza,3,Copias y Servicios,true
+P-0011,Descarga de CURP,Copias y Servicios,,0,10,0,pieza,3,Copias y Servicios,true
+P-0012,Descarga de Recibo de Luz,Copias y Servicios,,0,10,0,pieza,3,Copias y Servicios,true
+P-0013,Descarga de RFC,Copias y Servicios,,100,180,0,pieza,3,Copias y Servicios,true
+P-0014,Descarga de NNS,Copias y Servicios,,0,15,0,pieza,3,Copias y Servicios,true
+P-0015,Acta de Nacimiento,Copias y Servicios,,70,180,0,pieza,3,Copias y Servicios,true
+P-0016,Acta de Divorcio,Copias y Servicios,,150,250,0,pieza,3,Copias y Servicios,true
+P-0017,Acta de Defuncion,Copias y Servicios,,150,250,0,pieza,3,Copias y Servicios,true
+P-0018,Cita de Pasaporte,Copias y Servicios,,0,50,0,pieza,3,Copias y Servicios,true
+P-0019,Cita al SAT,Copias y Servicios,,0,50,0,pieza,3,Copias y Servicios,true
+P-0020,Cita al INE,Copias y Servicios,,0,50,0,pieza,3,Copias y Servicios,true
+P-0021,Carpeta,Copias y Servicios,,3.5,5,47,pieza,10,Copias y Servicios,false
+P-0022,Hoja Opalina,Copias y Servicios,,1.4,2.5,0,pieza,10,Copias y Servicios,true
+P-0023,Coca Cola 600 ML,Aguas & Snacks,75007614,18.75,25,0,pieza,4,Aguas & Snacks,false
+P-0024,Coca Cola 3 Lt,Aguas & Snacks,7501055304745,51,55,3,pieza,2,Aguas & Snacks,false
+P-0025,Vasos,Aguas & Snacks,7506233813460,0.8,1,15,pieza,5,Aguas & Snacks,false
+P-0026,Sabritas Crujientes Flamín Hot,Aguas & Snacks,7500478045938,15,22,5,pieza,2,Aguas & Snacks,false
+P-0027,Doritos Flamín Hot,Aguas & Snacks,7501011130272,15,22,0,pieza,3,Aguas & Snacks,false
+P-0028,Maruchan Preparada,Aguas & Snacks,041789001864,14.83,25,2,pieza,3,Aguas & Snacks,false
+P-0029,Tostitos Salsa Verde,Aguas & Snacks,7500478052042,12,20,3,pieza,3,Aguas & Snacks,false
+P-0030,Tostitos Flamin Hot,Aguas & Snacks,7501011126879,20,22,2,pieza,3,Aguas & Snacks,false
+P-0031,Nachos Preparados,Aguas & Snacks,,20,30,0,pieza,3,Aguas & Snacks,true
+P-0032,Queso para Maruchan,Aguas & Snacks,,0,5,0,pieza,3,Aguas & Snacks,true
+P-0033,Coca Cola 1.75 Lt,Aguas & Snacks,7501055313532,42,45,0,pieza,3,Aguas & Snacks,false
+P-0034,Cheetos Colmillos,Aguas & Snacks,7500478034444,10,17,3,pieza,3,Aguas & Snacks,false
+P-0035,RUFLES FLAMIN HOT,Aguas & Snacks,,15,22,0,pieza,3,Aguas & Snacks,false
+P-0036,Doritos Nachos,Aguas & Snacks,7500478024940,14.6,22,1,pieza,3,Aguas & Snacks,false
+P-0037,Doritos 3Ds,Aguas & Snacks,7500478031535,10,20,2,pieza,3,Aguas & Snacks,false
+P-0038,Sabritones rejitas,Aguas & Snacks,7500478045150,10,20,1,pieza,3,Aguas & Snacks,false
+P-0039,Takis Salsa Brava,Aguas & Snacks,7501000166923,11.06,20,3,pieza,3,Aguas & Snacks,false
+P-0040,Takis Original,Aguas & Snacks,7501000164370,11.06,20,4,pieza,3,Aguas & Snacks,false
+P-0041,Takis Huakamole,Aguas & Snacks,7501000148288,11.06,20,1,pieza,3,Aguas & Snacks,false
+P-0042,Takis Fuego,Aguas & Snacks,7500810003671,18,20,4,pieza,3,Aguas & Snacks,false
+P-0043,Cafe Frio,Aguas & Snacks,,11.06,25,0,pieza,3,Aguas & Snacks,true
+P-0044,Sabritones Papas Picositas,Aguas & Snacks,7500478045488,10,20,5,pieza,3,Aguas & Snacks,false
+P-0045,Cheetos Palomitas,Aguas & Snacks,7500478034949,10,15,1,pieza,3,Aguas & Snacks,false
+P-0046,Palomitas Preparadas Extra Mantequilla,Aguas & Snacks,7501006559026,11.14,25,16,pieza,3,Aguas & Snacks,false
+P-0047,Palomitas Preparadas Infierno Extremo,Aguas & Snacks,7501006559309,20,30,3,pieza,3,Aguas & Snacks,false
+P-0048,Sabritones Originales Chile y Limón,Aguas & Snacks,7500478045426,10,20,1,pieza,3,Aguas & Snacks,false
+P-0049,Fritos Sal,Aguas & Snacks,7500478018925,8.5,15,0,pieza,3,Aguas & Snacks,false
+P-0050,Fritos Chorizo,Aguas & Snacks,7500478018932,6.35,15,5,pieza,3,Aguas & Snacks,false
+P-0051,Palomitas karameladas Pop,Aguas & Snacks,7500810005057,16.25,22,4,pieza,3,Aguas & Snacks,false
+P-0052,Churrumai Flamin Hot,Aguas & Snacks,7500478042302,10,15,4,pieza,3,Aguas & Snacks,false
+P-0053,"Maruchan Camarón, Limón, y Habanero.",Dulcería,00041789901867,178,193,8,paquete,3,Dulcería,false
+P-0054,TIRA PALETON CORONADO 10PZ,Dulcería,7622202261015,18,27,2,pieza,3,Dulcería,false
+P-0055,TIRA PALETA CORONADO 20PZ,Dulcería,7622202244353,18,27,4,pieza,3,Dulcería,false
+P-0056,TRIKITRAKES 12,Dulcería,7501030453130,36,47,3,pieza,3,Dulcería,false
+P-0057,BARRITA FRESA 12,Dulcería,7501030453055,36,45,2,pieza,3,Dulcería,false
+P-0058,BARRITA PIÑA 12,Dulcería,7501030453062,36,45,3,pieza,3,Dulcería,false
+P-0059,ARCOIRIS 670G,Dulcería,7501000645169,88,98,2,pieza,3,Dulcería,false
+P-0060,VAINILLA DGARI 120ML,Dulcería,735257007112,10,20,2,pieza,3,Dulcería,false
+P-0061,DEIMA CONCENTRADO FRESA 120ML,Dulcería,614143305627,45,55,1,pieza,3,Dulcería,false
+P-0062,GALLETA SAURIS NAPOLITANO,Dulcería,038629001900,25,35,4,pieza,3,Dulcería,false
+P-0063,GALLETA SAURIS CHOCOLATE,Dulcería,038629001009,25,36,4,pieza,3,Dulcería,false
+P-0064,GALLETA SAURIS COMBINADO,Dulcería,038629001160,25,36,4,pieza,3,Dulcería,false
+P-0065,BUBBALOO PLATANO,Dulcería,7622201692803,43,52,2,pieza,3,Dulcería,false
+P-0066,CHICLETS CAJA AMARRILLA,Dulcería,7622210535238,51.01,60,3,pieza,3,Dulcería,false
+P-0067,BUBBALOO FRESA,Dulcería,7622201692827,43,52,1,pieza,3,Dulcería,false
+P-0068,PEKEPAKE,Dulcería,7500478045051,54,63,0,pieza,3,Dulcería,false
+P-0069,MENTOS ROLL FRUTAS,Dulcería,7503023533522,89,98,1,pieza,3,Dulcería,false
+P-0070,MENTOS ROLL MENTA,Dulcería,7503023533508,89,98,2,pieza,3,Dulcería,false
+P-0071,CEREAL SURTIDO KELLOGGS,Dulcería,7501008068571,69,78,1,pieza,3,Dulcería,false
+P-0072,INTER KYKYS JALAPEÑO,Dulcería,7502247421820,40,45,0,pieza,3,Dulcería,false
+P-0073,GLOBO DEC ROJO CARMIN,Dulcería,7501060401330,84,94,1,pieza,3,Dulcería,false
+P-0074,GLOBO DEC BLANCO NIEVE,Dulcería,7501060401279,84,94,1,pieza,3,Dulcería,false
+P-0075,GLOBO N°7 FESA,Dulcería,7502003476460,55,80,1,pieza,3,Dulcería,false
+P-0076,BOLSA DULCERAS PERSONAJES,Dulcería,7501642208302,22.01,31,10,pieza,3,Dulcería,false
+P-0077,BOMBOM FRESITAS,Dulcería,724869002929,38.01,48,2,pieza,3,Dulcería,false
+P-0078,BOMBOM ENROLLADOS,Dulcería,724869002776,38.01,48,2,pieza,3,Dulcería,false
+P-0079,BOMBON MEDIANO BIANCHI,Dulcería,724869003292,36,45,2,pieza,3,Dulcería,false
+P-0080,BOMBOM CHICO BIANCHI,Dulcería,724869003278,36,48,1,pieza,3,Dulcería,false
+P-0081,BARQUILLO MALVAVISCO GRANDE,Dulcería,644813000095,34,43,1,pieza,3,Dulcería,false
+P-0082,BARQUILLO MALVAVISCO MINI,Dulcería,7506448130024,67,77,1,pieza,3,Dulcería,false
+P-0083,PALANQUETA CHICA NATURAL,Dulcería,7505076765011,26,35,3,pieza,3,Dulcería,false
+P-0084,VIT COCO VELADORA AMARILLO,Dulcería,7503003383086,118,127,2,pieza,3,Dulcería,false
+P-0085,COCO DURO 100PZ,Dulcería,7503003383048,118,127,1,pieza,3,Dulcería,false
+P-0086,NUCITA CHOCO FRESA,Dulcería,7501088214356,28,38,4,pieza,3,Dulcería,false
+P-0087,NUCITA CHOCO VAINILLA,Dulcería,7501088214363,28,38,3,pieza,3,Dulcería,false
+P-0088,DUVALIN TRISABOR,Dulcería,025046021499,31,40,4,pieza,3,Dulcería,false
+P-0089,NUCITA FRESA VAINILLA,Dulcería,7501088214370,28,38,4,pieza,3,Dulcería,false
+P-0090,BOCADIN,Dulcería,025046501052,67,76,2,pieza,3,Dulcería,false
+P-0092,NUCITA TRISABOR,Dulcería,7501088214332,28,38,4,pieza,3,Dulcería,false
+P-0093,MONEDA CHOCOLATE NUCITA,Dulcería,7501088210624,74,84,2,pieza,3,Dulcería,false
+P-0094,VELA DE LECHE 180PZ CHARLY,Dulcería,764451546264,96.99,107,1,pieza,3,Dulcería,false
+P-0095,PIÑATERO HALLOWEEN 1.3KG,Dulcería,603554079418,180,190,2,pieza,3,Dulcería,false
+P-0096,CARAMELO DAMY 100PZ,Dulcería,024142020030,76,86,1,pieza,3,Dulcería,false
+P-0097,Crujitos,Aguas & Snacks,7500478051823,10,20,1,pieza,3,Aguas & Snacks,false
+P-0098,Cheetos Flamin Hot,Aguas & Snacks,7500478024810,10,15,8,pieza,3,Aguas & Snacks,false
+P-0099,EMPERADOR VAINILLA,Dulcería,7500478013746,35,53,2,pieza,3,Dulcería,false
+P-0100,EMPERADOR PIRUETA,Dulcería,7500478014484,35,53,1,pieza,3,Dulcería,false
+P-0101,EMPERADOR CHOCOLATE,Dulcería,7500478044610,35,53,2,pieza,3,Dulcería,false
+P-0102,BOLSACOMBO PIÑATA 2 KG,Dulcería,766902001599,197,215,0,pieza,3,Dulcería,false
+P-0103,BOLSA PIÑATERA LAS DELICIAS 1.4KG,Dulcería,603554079012,189,200,2,pieza,3,Dulcería,false
+P-0104,BOLSA PIÑATERA PAQUETE DIVERSION,Dulcería,7500810016626,186,196,2,pieza,3,Dulcería,false
+P-0105,PALANQUETA MEDIANA NATURAL,Dulcería,7505076765165,38.01,47,3,pieza,3,Dulcería,false
+P-0106,MINI LANZA CHILE 50PZ,Dulcería,7506543124058,45,55,2,pieza,3,Dulcería,false
+P-0107,DADI GUM 100PZ LASDELICIAS,Dulcería,603554110012,64.99,74,2,pieza,3,Dulcería,false
+P-0108,LANZA CHILE 50PZ,Dulcería,7506076765070,57,66,2,pieza,3,Dulcería,false
+P-0109,CARAMELO DAMY suelto,Dulcería,024142007574,41,2,38,pieza,3,Dulcería,false
+P-0110,POPOTIX ACID 50PZ,Dulcería,603554019049,22,31,4,pieza,3,Dulcería,false
+P-0111,ROCKABOLA 2OPZ,Dulcería,7500478025770,43,53,2,pieza,3,Dulcería,false
+P-0112,CONCHA DE MENTA,Dulcería,742587010569,88,98,1,pieza,3,Dulcería,false
+P-0113,PIÑATERO DELIPACK 1KG,Dulcería,603554079050,127,138,2,pieza,3,Dulcería,false
+P-0114,TIRA CACAHUATE JAPONES KURUMAYA,Dulcería,7503003870647,51,60,3,pieza,3,Dulcería,false
+P-0115,MINI GELATINA BLS 40PZ,Dulcería,603554035032,26,38,2,pieza,3,Dulcería,false
+P-0116,CHICLE LUCKYGUM CLASICO 100PZ,Dulcería,744218202015,28,52,3,pieza,3,Dulcería,false
+P-0117,CHIDAS MIX TUBO,Dulcería,7502247429147,45,50,4,pieza,3,Dulcería,false
+P-0118,TUTSI POP 50PZ,Dulcería,7501063500177,187,197,1,pieza,3,Dulcería,false
+P-0119,GELATINA DGARI DURAZNO,Dulcería,735257002537,10,15,2,pieza,3,Dulcería,false
+P-0120,GELATINA DGARI UVA,Dulcería,735257002452,10,15,2,pieza,3,Dulcería,false
+P-0121,GELATINA DGARI MORA SILVESTRE,Dulcería,735257002599,12,15,3,pieza,3,Dulcería,false
+P-0122,GELATINA DGARI FRESA,Dulcería,735257002513,12,15,2,pieza,3,Dulcería,false
+P-0123,GELATINA DGARI NARANJA,Dulcería,735257002476,12,15,0,pieza,3,Dulcería,false
+P-0124,CHEETOS XTRA FLAMIN HOT,Dulcería,7500478035106,101,120,1,pieza,3,Dulcería,false
+P-0125,DONITAS HOT CHILI INTER,Dulcería,7502247422254,40,45,2,pieza,3,Dulcería,false
+P-0126,TRISKINO,Dulcería,7501340703284,68,72,1,pieza,3,Dulcería,false
+P-0127,CASERAS FUEGO,Dulcería,7502247424890,52,55,8,pieza,3,Dulcería,false
+P-0128,KYKYS AHUMADO INTER,Dulcería,7502247421769,40,45,0,pieza,3,Dulcería,false
+P-0129,CHIDAS PALITO,Dulcería,7502247428805,49,54,14,pieza,3,Dulcería,false
+P-0130,INTER CHARRON,Dulcería,7502247423572,40,45,2,pieza,3,Dulcería,false
+P-0131,CHECHOS INTER,Dulcería,7502247421806,40,45,3,pieza,3,Dulcería,false
+P-0132,DONITA SAL Y LIMON INTER,Dulcería,7502247425057,42,44,2,pieza,3,Dulcería,false
+P-0133,CASERA SAL,Dulcería,7502247424951,52,54,2,pieza,3,Dulcería,false
+P-0134,CASERA ZIG ZAG,Dulcería,7502247424937,52,54,3,pieza,3,Dulcería,false
+P-0135,REMIX QUESO Y CHILE,Dulcería,7502247425385,48,53,2,pieza,3,Dulcería,false
+P-0136,REMIX EXPLOSION,Dulcería,7502247426719,48,53,2,pieza,3,Dulcería,false
+P-0137,KIUBO TOTOPO SALSA NEGRA 10PZ,Dulcería,7502247424661,48,50,0,pieza,3,Dulcería,false
+P-0138,CHIDAS TOTOPO SALSA NEGRA,Dulcería,7502247427570,56,72,2,pieza,3,Dulcería,false
+P-0139,GOMITA TIBURON,Dulcería,744218100243,86,96,3,pieza,3,Dulcería,false
+P-0140,KIPI CHURRITO 20PZ,Dulcería,7501677921023,43.5,53,2,pieza,3,Dulcería,false
+P-0141,HUEVITO PINTO 500G,Dulcería,7622202257254,64,74,2,pieza,3,Dulcería,false
+P-0142,GOMITA GOTITAS,Dulcería,744218100069,74,93,1,pieza,3,Dulcería,false
+P-0143,GOMITA  LOMBRICES,Dulcería,744218100038,83,93,1,pieza,3,Dulcería,false
+P-0144,GOMITA ORUGAS,Dulcería,744218100052,83,86,1,pieza,3,Dulcería,false
+P-0145,GOMITA AROS DURAZNO,Dulcería,744218100090,86,93,0,pieza,3,Dulcería,false
+P-0146,GOMITA LOMBRIZ NEON,Dulcería,744218100045,78,93,3,pieza,3,Dulcería,false
+P-0147,GUSANO CHAMOY LUCAS,Dulcería,725181820109,80,86,1,pieza,3,Dulcería,false
+P-0148,MUECAS CHAMOY LUCAS 1OPZ,Dulcería,7502226815015,78,87,1,pieza,3,Dulcería,false
+P-0149,CHOCOGALLETIN 10PZ,Dulcería,603554069020,42,52,4,pieza,3,Dulcería,false
+P-0150,CHUPADEDO 30PZ,Dulcería,7503030374750,54,63,3,pieza,3,Dulcería,false
+P-0151,TRUENO HUEVITO LAS DELICIAS 24PZ,Dulcería,603554019209,55,64,1,pieza,3,Dulcería,false
+P-0152,MAZAPAN ORIGINAL,Dulcería,724869100106,89,98,1,pieza,3,Dulcería,false
+P-0153,MAIZ PALOMERO 1KG,Dulcería,,32,42,2,pieza,3,Dulcería,false
+P-0154,PASTA M RUEDA TRIGO 1KG,Dulcería,,42.99,53,2,pieza,3,Dulcería,false
+P-0155,CHICHARRIN ANILLO 1 KG,Dulcería,,42.99,53,2,pieza,3,Dulcería,false
+P-0156,TUBO CANELS 20PZ,Dulcería,018804055690,85,95,0,pieza,3,Dulcería,false
+P-0157,Bombon grande bianchi,Dulcería,724869003315,36,46,2,pieza,3,Dulcería,false
+P-0158,DONITAS CHILE Y LIMON INTER,Dulcería,7502247420939,40,45,2,pieza,3,Dulcería,false
+P-0159,PACHICLETA FUEGO 20PZ,Dulcería,744218007023,44,53,2,pieza,3,Dulcería,false
+P-0160,PACHILETA COLORES BOLSA 20PZ,Dulcería,744218000031,41,53,1,pieza,3,Dulcería,false
+P-0161,FRUTZUCOS 20PZ,Dulcería,603554100082,30,39,1,pieza,3,Dulcería,false
+P-0162,PELON MINI TAMARINDO 18PZ,Dulcería,719886225093,61,71,2,pieza,3,Dulcería,false
+P-0163,LUCAS PANZON SANDIA 10PZ,Dulcería,7502226815138,93,105,1,pieza,3,Dulcería,false
+P-0164,CHOCO CRUNCH CARITA MIX,Dulcería,603554036442,34,43,2,pieza,3,Dulcería,false
+P-0165,PELON PELO RICO GDE TAMARINDO 12PZ,Dulcería,719886211928,84,94,2,pieza,3,Dulcería,false
+P-0166,FORRITOS TAMARINDO,Dulcería,703885063121,67,76,2,pieza,3,Dulcería,false
+P-0167,CHOCO CRUNCH CARITA,Dulcería,603554057010,84,94,1,pieza,3,Dulcería,false
+P-0168,CHOCO CRUNCH CARITA JUMBO,Dulcería,603554057034,80,89,1,pieza,3,Dulcería,false
+P-0169,GUMMY SURTIDO LAS DELICIAS,Dulcería,603554100198,50,58,2,pieza,3,Dulcería,false
+P-0170,PALILLIN CHOCOLATE DLAROSA,Dulcería,724869002745,60,69,1,pieza,3,Dulcería,false
+P-0171,PALILLIN FRESA DLAROSA,Dulcería,724869003889,60,69,2,pieza,3,Dulcería,false
+P-0172,VERO MIX DULCE,Dulcería,7503030374996,39,48,3,pieza,3,Dulcería,false
+P-0173,CHICLE PINTATE,Dulcería,725226002897,45,53,2,pieza,3,Dulcería,false
+P-0174,MAKE UP,Dulcería,6925374530943,54,67,2,pieza,3,Dulcería,false
+P-0175,VERO MIX FUEGO 20PZ,Dulcería,7503030572002,39,48,3,pieza,3,Dulcería,false
+P-0176,MALVABONY 40PZ,Dulcería,724869006828,65.01,74,2,pieza,3,Dulcería,false
+P-0177,TIRA BAGIX SURTIDO,Dulcería,766902004958,38.01,47,2,pieza,3,Dulcería,false
+P-0178,CASERA FUEGO PZ,Aguas & Snacks,7502247424883,5.4,10,3,pieza,3,Aguas & Snacks,false
+P-0179,CACAHUATE 15G,Dulcería,7503003870272,0,2,46,pieza,3,Dulcería,false
+P-0180,Refresco Manzanita 2 Lt,Aguas & Snacks,7501055340002,30,40,0,pieza,3,Aguas & Snacks,false
+P-0181,Refresco Fanta 2 Lts,Aguas & Snacks,7501055303878,30,40,2,pieza,3,Aguas & Snacks,false
+P-0182,DEL VALLE DURAZNO 237,Dulcería,7501055356928,9,12,1,pieza,3,Dulcería,false
+P-0183,GENEROSA DEL VALLE MANZANA 413ML,Aguas & Snacks,032239052024,21,25,1,pieza,3,Aguas & Snacks,false
+P-0184,DEL VALLE DURAZNO 1 LT,Aguas & Snacks,7501055333851,28,35,1,pieza,3,Aguas & Snacks,false
+P-0185,DEL VALLE FRUT CITRUS 600ML,Aguas & Snacks,7501055330683,20,25,2,pieza,3,Aguas & Snacks,false
+P-0186,FIZZ NARANJADA 2 LT,Aguas & Snacks,7501055379491,20,40,1,pieza,3,Aguas & Snacks,false
+P-0187,CHICHARRON PREPARADO,Aguas & Snacks,,20,30,0,pieza,3,Aguas & Snacks,true
+P-0188,DEL VALLE FRUT CITRUS 2 LT,Aguas & Snacks,7501055330461,35,40,1,pieza,3,Aguas & Snacks,false
+P-0189,MARUCHAN HABANERO PZA,Dulcería,,25,20,0,pieza,3,Dulcería,false
+P-0190,CHICHARRON DE CUADRO PARA FREIR,Dulcería,,48,58,10,bolsa,3,Dulcería,false
+P-0191,MINI BOLOS,Dulcería,603554079067,19,28,10,bolsa,3,Dulcería,false
+P-0192,MARA COLA,Dulcería,766902003210,32,42,0,bolsa,3,Dulcería,false
+P-0193,MARA ESCOBON,Dulcería,766902003371,32,42,0,bolsa,3,Dulcería,false
+P-0194,MARA ESCOBON BLUE,Dulcería,766902003364,32,42,0,bolsa,3,Dulcería,false
+P-0195,MARA PIÑA,Dulcería,766902001704,32,42,0,bolsa,3,Dulcería,false
+P-0196,MARA CARAMBOLAZO,Dulcería,766902015947,32,42,0,bolsa,3,Dulcería,false
+P-0197,MARA PALEAMOR MIX,Dulcería,766902016791,32,42,0,bolsa,3,Dulcería,false
+P-0198,MARA PIRULICOS,Dulcería,766902015916,32,42,0,bolsa,3,Dulcería,false
+P-0199,MARA BOLONCHAS SURTIDO,Dulcería,766902015930,32,42,0,bolsa,3,Dulcería,false
+P-0200,MARA ESCOBON SANDIA,Dulcería,766902016807,32,42,0,bolsa,3,Dulcería,false
+P-0201,MARA PALE AMOR CHAMOY,Dulcería,766902015985,32,42,0,bolsa,3,Dulcería,false
+P-0202,PALITOS INTER HOT CHILI,Dulcería,7502247422278,40,45,4,bolsa,3,Dulcería,false
+P-0203,KIKYS HOT CHILIN MEGA,Dulcería,7502247421783,47,50,2,bolsa,3,Dulcería,false
+P-0204,KIKYS AHUMADO MEGA,Dulcería,7502247421882,47,50,1,bolsa,3,Dulcería,false
+P-0205,CHIDAS LOCO MIX,Dulcería,7502247427846,44,49,2,bolsa,3,Dulcería,false
+P-0206,SALSA TAXQUEÑA 1.5 LTS,Dulcería,7501340700085,40,50,1,litro,3,Dulcería,false
+P-0207,SALSA TAXQUEÑA 1 LTS,Dulcería,7501340700061,34,44,1,litro,3,Dulcería,false
+P-0208,SALSA TAXQUEÑA 500 ML,Dulcería,7501340700078,29,35,1,litro,3,Dulcería,false
+P-0209,PALETA CUPIDO CHAMOY,Dulcería,759686064126,68,78,1,bolsa,3,Dulcería,false
+P-0210,torta,Dulcería,7622210529671,30,30,19,pieza,3,Dulcería,false
+P-0211,BUBBALO MIX,Dulcería,7622210529220,66,73,2,pieza,3,Dulcería,false
+P-0212,Agua Natural 1 lt,Aguas & Snacks,7506233809111,5,10,3,pieza,3,Aguas & Snacks,false
+P-0213,Paketaxo mezcladito,Aguas & Snacks,7500478044146,22.5,25,1,pieza,3,Aguas & Snacks,false
+P-0214,Paketaxo Flamin Hot,Aguas & Snacks,7500478044191,22.5,25,0,pieza,3,Aguas & Snacks,false
+P-0215,Sabritas Flamin Hot,Aguas & Snacks,7500478043941,20,22,2,pieza,3,Aguas & Snacks,false
+P-0216,JUMEX MANZANA,Aguas & Snacks,7501013103267,13.5,15,2,pieza,3,Aguas & Snacks,false
+P-0217,JUMEX DURAZNO,Aguas & Snacks,7501013103274,13.5,15,1,pieza,3,Aguas & Snacks,false
+P-0218,CHICHARRON DE CUADRO FRITO,Dulcería,,48,65,1,pieza,3,Dulcería,false
+P-0219,CONSTANCIA DE SEMANAS COTIZADAS,Copias y Servicios,,40,60,0,pieza,3,Copias y Servicios,true
+P-0220,BOLSA ESPECIAL,Aguas & Snacks,,30,50,0,pieza,3,Aguas & Snacks,true
+P-0221,RECARGAS TELEFONICAS,Copias y Servicios,,50,52,0,servicio,3,Copias y Servicios,true
+P-0222,RECARGAS TELEFONICAS,Copias y Servicios,,20,22,0,servicio,3,Copias y Servicios,true
+P-0223,RECARGAS TELEFONICAS,Copias y Servicios,,100,102,0,servicio,3,Copias y Servicios,true
+P-0224,RECARGAS TELEFONICAS,Copias y Servicios,,150,152,0,servicio,3,Copias y Servicios,true
+P-0225,RECARGAS TELEFONICAS,Copias y Servicios,,30,32,0,servicio,3,Copias y Servicios,true
+P-0226,CASERAS FUEGO,Dulcería,,15,10,3,pieza,3,Dulcería,false
+P-0227,triskino,Dulcería,7501340703093,5,3,0,pieza,3,Dulcería,false
+P-0228,HALLS STRONG NEGRO,Dulcería,,71.4,83,1,paquete,3,Dulcería,false
+P-0229,HALLS CEREZA,Dulcería,7622210457479,71.4,83,1,paquete,3,Dulcería,false
+P-0230,chicle suelto,Dulcería,75083489,0.68,1.5,57,pieza,3,Dulcería,false
+P-0231,Galleta oreo,Dulcería,7622210575395,29,38,2,pieza,3,Dulcería,false
+P-0232,Choco huevo sorpresa,Dulcería,603554114072,70,80,1,pieza,3,Dulcería,false
+P-0233,CEPILLITO FRUTIX,Dulcería,7503031675160,67,76,1,pieza,3,Dulcería,false
+P-0234,FORRO PAVITO CUBIERTA TAMARINDO,Dulcería,7503013769504,67,76,2,pieza,3,Dulcería,false
+P-0235,PAVI CUBIERTA CHAMOY,Dulcería,7503019195864,67,77,2,pieza,3,Dulcería,false
+P-0236,PICAFRESA GIGANTE,Dulcería,759686600683,88,98,2,pieza,3,Dulcería,false
+P-0237,TIRA OBLEA,Dulcería,7501009305019,19.5,27,2,pieza,3,Dulcería,false
+P-0238,BUBBALO MIX 70 PZ,Dulcería,7622210529244,63,73,2,pieza,3,Dulcería,false
+P-0239,Concentrado de coco,Dulcería,614143434730,45,55,1,pieza,3,Dulcería,false
+P-0240,Paleta de manzana,Dulcería,7502246440259,59,69,3,pieza,3,Dulcería,false
+P-0241,Bolsa tutsi pop 24 pzas,Dulcería,7501063500085,92,102,2,pieza,3,Dulcería,false
+P-0242,Palito para paleta,Dulcería,,26,38,1,pieza,3,Dulcería,false
+P-0243,PALITO PARA BROCHETA DE 20 CM,Dulcería,,21,31,2,pieza,3,Dulcería,false
+P-0244,PALITO PARA BROCHETA 25 CM,Dulcería,,21,31,2,pieza,3,Dulcería,false
+P-0245,PALITO PARA BROCHETA DE 30 CM,Dulcería,,21,31,2,pieza,3,Dulcería,false
+P-0246,FRAPPUCHINO,Aguas & Snacks,,45,55,0,pieza,3,Aguas & Snacks,true
+P-0247,FRAPPE DE OREO,Aguas & Snacks,,45,55,0,pieza,3,Aguas & Snacks,true
+P-0248,FRAPPE DE GANSITO,Dulcería,,45,60,5,pieza,3,Dulcería,false
+P-0249,RUFLES FLAMINH HOT,Dulcería,7500478047437,10,20,3,pieza,3,Dulcería,false
+P-0250,CHETOS BOLITAS DE QUESO,Dulcería,7500478046126,10,15,5,pieza,3,Dulcería,false
+P-0251,AMPER MORA AZUL,Aguas & Snacks,7506192511797,16,20,2,pieza,3,Aguas & Snacks,false
+P-0252,AMPER KALAKA,Aguas & Snacks,7506192509084,16,20,1,pieza,3,Aguas & Snacks,false
+P-0253,AMPER ENERGY,Aguas & Snacks,7506192507349,16,20,1,pieza,3,Aguas & Snacks,false
+P-0254,bibi polviz picosita,Dulcería,,64,72,1,pieza,3,Dulcería,false
+P-0255,Agua de jamaica,Aguas & Snacks,,25,20,0,pieza,3,Aguas & Snacks,true
+P-0256,Agua de horchata,Aguas & Snacks,,25,20,0,pieza,3,Aguas & Snacks,true
+P-0257,nachos de bolzasa,Aguas & Snacks,,42,60,3,pieza,3,Aguas & Snacks,false
+P-0258,rollo de papel de baño,Aguas & Snacks,,15,12,1,pieza,3,Aguas & Snacks,false
+P-0259,PAGO DE TENENCIA A COLOR,Aguas & Snacks,,10,10,0,servicio,3,Aguas & Snacks,true
+P-0260,PAGO DE TENENCIA BLANCO Y NEGRO,Aguas & Snacks,,5,5,0,servicio,3,Aguas & Snacks,true
+P-0261,gelatina negra de Gari,Dulcería,735257003770,12,15,2,pieza,3,Dulcería,false
+P-0262,canelitas,Dulcería,7501030453086,36,46,1,pieza,3,Dulcería,false
+P-0263,chicle tatto 100 pz,Dulcería,603554027136,63,73,1,pieza,3,Dulcería,false
+P-0264,Chicle tatto de 150 pz,Dulcería,603554027129,63,73,1,pieza,3,Dulcería,false
+P-0265,Gelatina de Limon,Dulcería,735257002490,12,15,2,pieza,3,Dulcería,false
+P-0266,Coca light,Aguas & Snacks,7501055305339,21.5,25,4,pieza,3,Aguas & Snacks,false
+P-0267,VIVE100 DE 400 ML ORIG,Aguas & Snacks,7506192510684,10,20,2,pieza,3,Aguas & Snacks,false
+P-0268,VIVE100 MORA,Aguas & Snacks,7506192508001,14.5,25,2,pieza,3,Aguas & Snacks,false
+P-0269,VIVE100 DE 500 ML,Aguas & Snacks,7506192505918,14.5,25,1,pieza,3,Aguas & Snacks,false
+P-0270,GALLETA PRINCIPE 4 PAK,Dulcería,,38,48,1,pieza,3,Dulcería,false
